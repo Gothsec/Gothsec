@@ -1,11 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Oscar Hernandez, a passionate software developer from Colombia to the world</h3>
+# Hi there 👋
+##### I'm Oscar Hernandez, a passionate software developer from Colombia to the world
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/hernandezoscar-dev/" target="blank" rel="noreferrer">Linkedin</a> </h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+### Connect with me: <a href="https://www.linkedin.com/in/hernandezoscar-dev/" target="blank" rel="noreferrer">Linkedin</a>
+### Languages and Tools:
 
 <p>
   </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
