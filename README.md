@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi there 👋 I'm Oscar Hernandez</h1>
+<h1 align="center">Hi there 👋</h1>
 </div>
 
 ## About me
