@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Oscar Hernandez</h1>
-<h3 align="center">A passionate software developer from Colombia to the world</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Oscar Hernandez, a passionate software developer from Colombia to the world</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
