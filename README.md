@@ -16,6 +16,7 @@ I'm a passionate software development student with a strong foundation in Python
 
 ### Get in Touch:
 - LinkedIn: https://www.linkedin.com/in/hernandezoscar-dev/
+- Email: oscarandreshernandezpineda@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
