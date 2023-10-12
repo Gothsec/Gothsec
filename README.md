@@ -15,8 +15,8 @@ I'm a passionate software development student with a strong foundation in Python
 - 🌐 HTML, CSS
 - 🔎 Git, Linux
 
-### My software development style is based on:
-- Aesthetic Usability efffect
+### My software development style:
+- Aesthetic Usability efffect (UX)
 - Clean Code Principles
 - Test-Driven Development (TDD)
 
