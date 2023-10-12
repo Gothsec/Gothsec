@@ -15,6 +15,11 @@ I'm a passionate software development student with a strong foundation in Python
 - 🌐 HTML, CSS
 - 🔎 Git, Linux
 
+### My software development style is based on:
+- Aesthetic Usability efffect
+- Clean Code Principles
+- Test-Driven Development (TDD)
+
 ### Get in Touch:
 - LinkedIn: https://www.linkedin.com/in/hernandezoscar-dev/
 - Email: oscarandreshernandezpineda@gmail.com
