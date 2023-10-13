@@ -12,8 +12,8 @@ I'm a passionate software development student with a strong foundation in Python
 
 ### Skills:
 - 💻 Python, Java, C++
-- 🌐 HTML, CSS
-- 🔎 Git, Linux
+- 🌐 HTML, CSS, JavaScript
+- 🔎 Git, MySQL, Linux
 
 ### My software development style:
 - Aesthetic Usability efffect (UX)
