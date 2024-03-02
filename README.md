@@ -6,13 +6,12 @@
 ## About me
 
 I'm a passionate software development student with a strong foundation in Python, Java, and C++. My journey in the world of coding has been a thrilling adventure, and I'm excited to take my skills to the next level.
--  💼 Aspiring to become a Full-Stack Web and Mobile Developer.
+-  💼 Aspiring to become a Front-end developer and Mobile Developer.
 -  📚 Eager to learn and contribute to open-source projects.
 -  🚀 Exploring new technologies and building cool stuff.
 
 ### Skills:
-- 💻 Python, Java, C++
-- 🌐 HTML, CSS, JavaScript
+- 💻 Python, Java, C++, HTML, CSS
 - 🔎 Git, MySQL, Linux
 
 ### My software development style:
@@ -22,7 +21,7 @@ I'm a passionate software development student with a strong foundation in Python
 
 ### Get in Touch:
 - LinkedIn: https://www.linkedin.com/in/hernandezoscar-dev/
-- Email: oscarandreshernandezpineda@gmail.com
+- Email: hernandezoscar.eth@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
