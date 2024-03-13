@@ -11,7 +11,7 @@ I'm a passionate software development student with a strong foundation in Python
 -  🚀 Exploring new technologies and building cool stuff.
 
 ### Skills:
-- 💻 Python, Java, C++, HTML, CSS
+- 💻 Python, Java, C++, HTML/CSS, Astro, TailwindCSS
 - 🔎 Git, MySQL, Linux
 
 ### My software development style:
