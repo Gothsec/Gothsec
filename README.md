@@ -6,13 +6,13 @@
 ## About me
 
 I'm a passionate software development student with a strong foundation in Python, Java, and C++. My journey in the world of coding has been a thrilling adventure, and I'm excited to take my skills to the next level.
--  💼 Aspiring to become a Front-end developer and Mobile Developer.
+-  💼 Aspiring to become a Front-end and ios Developer.
 -  📚 Eager to learn and contribute to open-source projects.
 -  🚀 Exploring new technologies and building cool stuff.
 
 ### Skills:
-- 💻 Python, Java, C++, HTML/CSS, Astro, TailwindCSS
-- 🔎 Git, MySQL, Linux
+- 💻 Python, Java, C++, HTML/CSS, Astro, TailwindCSS, JavaScript (On learning)
+- 🔎 Git/Github, MySQL, Linux
 
 ### My software development style:
 - Aesthetic Usability efffect (UX)
