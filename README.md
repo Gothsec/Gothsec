@@ -14,10 +14,10 @@ I'm a passionate software development student with a strong foundation in Python
 - 💻 Python, Java, C++, HTML/CSS, Astro, TailwindCSS, JavaScript (On learning)
 - 🔎 Git/Github, MySQL, Linux
 
-### My software development style:
-- Aesthetic Usability efffect (UX)
-- Clean Code Principles
-- Test-Driven Development (TDD)
+### My focus right now:
+- React
+- TailwindCSS
+- UX/UI
 
 ### Get in Touch:
 - LinkedIn: https://www.linkedin.com/in/hernandezoscar-dev/
