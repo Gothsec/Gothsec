@@ -16,6 +16,8 @@ I'm a passionate software development student with a strong foundation in Python
 
 ### My focus right now:
 - React
+- Node.js
+- MongoDB
 - TailwindCSS
 - UX/UI
 
