@@ -15,6 +15,7 @@ I'm a passionate software development student with a strong foundation in Python
 - 🔎 Git/Github, MySQL, Linux
 
 ### My focus right now:
+- JavaScript
 - React
 - Node.js
 - MongoDB
