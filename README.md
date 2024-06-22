@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there👋</h1>
 </div>
-  <a href="https://imgur.com/LNPTeS5"><img src="https://i.imgur.com/LNPTeS5.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/V7wKro1"><img src="https://i.imgur.com/V7wKro1.png" title="source: imgur.com" /></a>
 
 ## About me
 
