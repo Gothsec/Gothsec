@@ -33,6 +33,8 @@ I'm a passionate software development student with a strong foundation in Python
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gothsec&layout=compact&langs_count=8&theme=algolia"/> </a>
 </p>
 
+##
+
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x76ixjnp73ocuv2xneztyolk4a&count=3" alt="Spotify" width="450px">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x76ixjnp73ocuv2xneztyolk4a&count=3&width=660px" alt="Spotify">
 </div>
