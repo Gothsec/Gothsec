@@ -36,5 +36,5 @@ I'm a passionate software development student with a strong foundation in Python
 ##
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x76ixjnp73ocuv2xneztyolk4a&count=1&width=360px" alt="Spotify">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x76ixjnp73ocuv2xneztyolk4a&count=1&width=840px" alt="Spotify">
 </div>
