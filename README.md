@@ -14,13 +14,10 @@ I'm a passionate software development student with a strong foundation in Python
 - 💻 Python, Java, C++, HTML/CSS, Astro, TailwindCSS, JavaScript (On learning)
 - 🔎 Git/Github, MySQL, Linux
 
-### My focus right now:
-- Mastering basics (HTML, CSS and JavaScript)
-- React
-- Node.js
-- MongoDB
-- TailwindCSS
-- UX/UI
+### Right now:
+- Learning Web Development Fundamentals on IBM SkillsBuild
+- Mastering English for developers (A2) on FreeCodeCamp
+- Learning ReactJS
 
 ### Get in Touch:
 - LinkedIn: https://www.linkedin.com/in/hernandezoscar-dev/
