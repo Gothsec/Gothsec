@@ -6,8 +6,8 @@
 ## About me
 
 I'm a passionate software development student with a strong foundation in Python, Java, and C++.
--  💼 Aspiring to become a Full-stack and ios Developer.
--  📚 Eager to learn and mastering frontend skills.
+-  💼 Aspiring to become a Tech lead.
+-  📚 Eager to learn and mastering software skills.
 -  🚀 Exploring new technologies and building cool stuff.
 
 ### Skills:
