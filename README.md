@@ -15,7 +15,7 @@ I'm a passionate software development student with a strong foundation in Python
 - 🔎 Git/Github, MySQL, Linux
 
 ### Right now:
-- Learning Web Development Fundamentals on IBM SkillsBuild ✅
+- Reviewing Web Development Fundamentals on IBM SkillsBuild ✅
 - Mastering English for developers (A2) on FreeCodeCamp
 - Learning ReactJS
 
