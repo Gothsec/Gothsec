@@ -16,7 +16,7 @@ I'm a passionate software development student with a strong foundation in Python
 
 ### Right now:
 - Mastering English for developers (A2) on FreeCodeCamp
-- Looking for junior positions
+- Looking for junior/trainee positions
 - Learning ReactJS
 
 ### Get in Touch:
