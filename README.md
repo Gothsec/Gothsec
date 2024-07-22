@@ -6,7 +6,7 @@
 ## About me
 
 I'm a passionate software development student with a strong foundation in Python, Java, and C++.
--  💼 Aspiring to become a senior Software Developer.
+-  💼 Aspiring to become a Senior Software Developer.
 -  📚 Eager to learn and mastering software skills.
 -  🚀 Exploring new technologies and building cool stuff.
 
