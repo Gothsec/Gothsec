@@ -15,8 +15,8 @@ I'm a passionate software development student with a strong foundation in Python
 - 🔎 Git/Github, MySQL,Postgres, Linux
 
 ### Right now:
-- Mastering English for developers (A2) on FreeCodeCamp
-- Looking for junior/trainee positions
+- Looking for junior/trainee positions 2025/1
+- Building a new project
 - Learning ReactJS
 
 ### Get in Touch:
