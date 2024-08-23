@@ -16,7 +16,7 @@ I'm a passionate software development student with a strong foundation in Python
 
 ### Right now:
 - Looking for junior/trainee positions 2025/1
-- Building a new project
+- Building a new project (with SCRUM)
 - Learning ReactJS
 
 ### Get in Touch:
