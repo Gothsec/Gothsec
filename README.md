@@ -11,8 +11,8 @@ I'm a passionate software development student with a strong foundation in Python
 -  🚀 Exploring new technologies and building cool stuff.
 
 ### Skills:
-- 💻 Python, Java, C++, HTML/CSS, Astro, TailwindCSS, JavaScript (On learning)
-- 🔎 Git/Github, MySQL,Postgres, Linux
+- 💻 HTML, CSS, JavaScript, Astro, TailwindCSS, Python, Java, C++
+- 🔎 Git, MySQL, Postgres, Linux
 
 ### Right now:
 - Looking for junior/trainee positions 2025/1
