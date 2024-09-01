@@ -5,13 +5,13 @@
 
 ## About me
 
-I'm a passionate software development student with a strong foundation in Python, Java, and C++.
--  💼 Aspiring to become a Senior Software Developer.
--  📚 Eager to learn and mastering software skills.
--  🚀 Exploring new technologies and building cool stuff.
+I'm a passionate software development student with a strong foundation in Python, Java, and C++
+-  💼 Aspiring to become the best Frontend developer in Colombia
+-  📚 Eager to learn and mastering software skills (frontend and backend)
+-  🚀 Exploring new technologies and building cool stuff
 
-### Skills:
-- 💻 HTML, CSS, JavaScript, NodeJS, Astro, TailwindCSS, Python, Java, C++
+### Tech Stack:
+- 💻 HTML, CSS, JavaScript, ReactJS, NodeJS, Astro, TailwindCSS, Python, Java, C++
 - 🔎 Git, MySQL, Postgres, Linux
 
 ### Right now:
