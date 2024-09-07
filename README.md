@@ -5,7 +5,7 @@
 
 ## About me
 
-I'm a passionate software development student with a strong foundation in Python, Java, and C++
+I'm a passionate software development student with a strong foundation building software 
 -  💼 Aspiring to become a senior frontend developer
 -  📚 Eager to learn and mastering software skills (frontend and backend)
 -  🚀 Exploring new technologies and building cool stuff
