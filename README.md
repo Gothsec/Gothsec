@@ -6,13 +6,13 @@
 ## About me
 
 I'm a passionate software development student with a strong foundation in Python, Java, and C++
--  💼 Aspiring to become the best Frontend developer in Colombia
+-  💼 Aspiring to become a senior frontend developer
 -  📚 Eager to learn and mastering software skills (frontend and backend)
 -  🚀 Exploring new technologies and building cool stuff
 
 ### Tech Stack:
-- 💻 HTML, CSS, JavaScript, ReactJS, NodeJS, Astro, TailwindCSS, Python, Java, C++
-- 🔎 Git, MySQL, Postgres, Linux
+- 💻 HTML | CSS | JavaScript | React.js | Node.js | TailwindCSS | Python | Java
+- 🔎 MySQL | PostgreSQL | Linux
 
 ### Right now:
 - Looking for junior/trainee positions 2025/1
