@@ -17,7 +17,7 @@ I'm a passionate software development student with a strong foundation building 
 ### Right now:
 - Looking for junior/trainee positions 2025/1
 - Building a new project called StockIn(with SCRUM)
-- Learning ReactJS
+- Working with MERN (MySQL)
 
 ### Get in Touch:
 - LinkedIn: https://www.linkedin.com/in/hernandezoscar-dev/
