@@ -7,7 +7,7 @@
 
 I'm a passionate software development student with a strong foundation building software 
 -  💼 Aspiring to become a senior frontend developer
--  📚 Eager to learn and mastering software skills (frontend and backend)
+-  📚 Eager to learn and mastering frontend skills
 -  🚀 Exploring new technologies and building cool stuff
 
 ### Tech Stack:
@@ -16,7 +16,7 @@ I'm a passionate software development student with a strong foundation building 
 
 ### Right now:
 - Looking for junior/trainee positions 2025/1
-- Building a new project called StockIn(with SCRUM)
+- Building a new project called StockIn (SCRUM)
 - Working with MERN (MySQL)
 
 ### Get in Touch:
