@@ -12,9 +12,7 @@ Currently studying software development, I have a keen interest in frontend deve
 - 🔎 MySQL | PostgreSQL | Linux
 
 ### Right now:
-- Looking for junior/trainee positions 2025/1
-- Building a new project called StockIn (SCRUM)
-- Working with MERN (MySQL)
+- Developing an inventory management system called StockIn and looking for trainee/intern positions for 2025/1
 
 ### Get in Touch:
 - LinkedIn: https://www.linkedin.com/in/hernandezoscar-dev/
