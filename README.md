@@ -3,9 +3,9 @@
 ## About me
 
 Currently studying software development, I have a keen interest in frontend development and UX/UI design. I work with React and modern tools to create clean, user-centered interfaces.
-- 💼 Aiming to grow as a senior frontend developer, refining my expertise in building dynamic and scalable web applications.
-- 📚 Driven by continuous learning, committed to mastering advanced frontend technologies and best practices.
-- 🚀 Passionate about exploring emerging technologies, consistently working on innovative projects that push boundaries.
+- 💼 Aiming to grow as a senior frontend developer
+- 📚 Committed to mastering advanced frontend technologies and best practices
+- 🚀 Consistently working on innovative projects that push boundaries
 
 ### Tech Stack:
 - 💻 HTML | CSS | JavaScript | React.js | Node.js | TailwindCSS | Python | Java
