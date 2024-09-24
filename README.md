@@ -7,7 +7,7 @@ Currently studying software development, I have a keen interest in frontend deve
 ### Current Tech Stack: 
 - React, Node, Express, TailwindCSS, MySQL
 
----
+##
 
 ### GitHub Analytics
 <p align="center">
