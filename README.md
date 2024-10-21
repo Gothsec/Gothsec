@@ -1,4 +1,4 @@
-<a href="https://imgur.com/D5na0Wy"><img src="https://i.imgur.com/D5na0Wy.png" title="source: imgur.com" /></a>
+![Github-border](https://github.com/user-attachments/assets/63f8d426-52ae-4b97-a655-73dd974978ac)
 
 ## About me
 
