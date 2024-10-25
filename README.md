@@ -4,7 +4,7 @@
 
 Currently studying software development, I have a keen interest in frontend development and UX/UI design. I work with React and modern tools to create clean, user-centered interfaces. Current stack:
 
-- React, Node, Express, TailwindCSS, PostgreSQL
+- React, Node, TailwindCSS, PostgreSQL
 
 ##
 
