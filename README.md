@@ -7,8 +7,6 @@ Software developer focus in frontend development and UX/UI design. I work with R
 - React, Node, TailwindCSS, PostgreSQL
 
 ##
-
-### GitHub Analytics
 <p align="center">
 <a href="https://github.com/Gothsec">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gothsec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
