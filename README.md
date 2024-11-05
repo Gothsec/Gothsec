@@ -2,7 +2,7 @@
 
 ## About me
 
-Software developer focus in frontend development and UX/UI design. I work with React and modern tools to create clean, user-centered interfaces. Current stack:
+Software developer focus in frontend development and UX/UI design. I work with React and modern tools to create clean, user-centered interfaces.
 
 - React, Node, TailwindCSS, PostgreSQL
 
