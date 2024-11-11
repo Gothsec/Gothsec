@@ -2,7 +2,7 @@
 
 ## About me
 
-Software developer focus in frontend development and UX/UI design. Current stack:
+Software Developer specialized in frontend and UX/UI design. Current stack:
 
 - React, Node, TailwindCSS, PostgreSQL
 
