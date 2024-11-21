@@ -1,8 +1,10 @@
-![Github-border](https://github.com/user-attachments/assets/63f8d426-52ae-4b97-a655-73dd974978ac)
+<a href="https://oscarhernandez.vercel.app/">
+  <img src="https://github.com/user-attachments/assets/63f8d426-52ae-4b97-a655-73dd974978ac">
+</a>
 
 ## About me
 
-Software Developer specialized in frontend and UX/UI design. Current stack:
+Software Developer specialized in frontend and UX/UI design.
 
 - React, Node, TailwindCSS, PostgreSQL
 
