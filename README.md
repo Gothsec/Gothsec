@@ -7,6 +7,7 @@
 Software Developer specialized in frontend and UX/UI design.
 
 - React, Node, TailwindCSS, PostgreSQL
+- JavaScript (ES6+), TypeScript
 
 ##
 <p align="center">
