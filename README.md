@@ -6,7 +6,7 @@
 
 Software Developer specialized in frontend and UX/UI design.
 
-- React, Node, TailwindCSS, PostgreSQL, Astro
+- React, Node, TailwindCSS, MySQL, PostgreSQL, Astro
 - HTML5, CSS3, JavaScript (ES6+), TypeScript
 
 ##
