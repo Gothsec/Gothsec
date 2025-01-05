@@ -6,7 +6,7 @@
 
 Software Developer specialized in frontend and UX/UI design. Learning React Native
 
-- React, Node, TailwindCSS, MySQL, PostgreSQL, Astro
+- React, NodeJS, TailwindCSS, MySQL, PostgreSQL, Astro
 - HTML5, CSS3, JavaScript (ES6+), Java, TypeScript
 
 ##
