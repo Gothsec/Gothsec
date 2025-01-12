@@ -6,7 +6,7 @@
 
 Software Developer specialized in frontend and UX/UI design. Learning React Native.
 
-- HTML5, CSS3, JavaScript (ES6+), Java, TypeScript
+- HTML5, CSS3, JavaScript (ES6+), Python, Java, TypeScript
 - React, NodeJS, TailwindCSS, MySQL, PostgreSQL, Astro
 
 ##
