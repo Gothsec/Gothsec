@@ -10,6 +10,9 @@ Software Developer specialized in frontend and UX/UI design. Learning React Nati
 - React, NodeJS, TailwindCSS, MySQL, PostgreSQL, Astro
 
 ##
+<div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gothsec&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=last+30+days&area=true">
+</div>
 <p align="center">
 <a href="https://github.com/Gothsec">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gothsec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
