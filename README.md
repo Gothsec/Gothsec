@@ -9,7 +9,6 @@ Software Developer specialized in frontend and UX/UI design. Learning React Nati
 - HTML5, CSS3, JavaScript (ES6+), Python, Java, TypeScript
 - React, NodeJS, TailwindCSS, MySQL, PostgreSQL, Astro
 
-**Looking for internships 🚀**
 ##
 <div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gothsec&theme=material-palenight&bg_color=00000000&point=00000000&hide_border=true&custom_title=last+30+days&area=true">
