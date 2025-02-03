@@ -4,7 +4,7 @@
 
 ## About me
 
-Software Developer specialized in frontend and UX/UI design.
+Software Developer specialized in frontend and UX/UI design. Learning mobile dev.
 
 - HTML5, CSS3, JavaScript (ES6+), Python, Java, TypeScript
 - React, NodeJS, TailwindCSS, MySQL, PostgreSQL, Astro
