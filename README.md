@@ -6,7 +6,7 @@
 
 Software Developer specialized in frontend and UX/UI design.
 
-- HTML5, CSS3, JavaScript (ES6+), TypeScript, Python, Java
+- HTML5, CSS3, JavaScript (ES6+), TypeScript, Java
 - React, TailwindCSS, NodeJS, MySQL, Supabase, PostgreSQL, Astro
 
 ##
