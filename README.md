@@ -4,7 +4,7 @@
 
 ## About me
 
-Software Developer specialized in frontend and UX/UI design.
+Software Developer specialized in frontend and UX/UI design. **Looking for internships**
 
 - HTML5, CSS3, JavaScript (ES6+), TypeScript, Java
 - React, Vue, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro
