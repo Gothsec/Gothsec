@@ -6,8 +6,8 @@
 
 Software Developer specialized in frontend and UX/UI design.
 
-- HTML5, CSS3, JavaScript (ES6+), TypeScript, Java
-- React, Vue, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro
+- HTML5, CSS3, JavaScript (ES6+), TypeScript, Java.
+- React, Vue, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro.
 
 ##
 <p align="center">
