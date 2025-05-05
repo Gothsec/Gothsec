@@ -4,7 +4,7 @@
 
 ## About me
 
-Software Developer specialized in frontend and UX/UI design
+Software Developer specialized in frontend and UX/UI design (Building on Android with Java)
 
 - HTML5, CSS3, JavaScript (ES6+), TypeScript, Java
 - React, Vue, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro
