@@ -6,7 +6,7 @@
 
 Software Developer & Product designer (Building on Android with Java)
 
-- HTML5, CSS3, JavaScript (ES6+), TypeScript, Java
+- HTML5, CSS3, JavaScript (ES6+), TypeScript, Java, SQL
 - React, Vue, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro
 
 ##
