@@ -2,6 +2,12 @@
   <img src="https://github.com/user-attachments/assets/63f8d426-52ae-4b97-a655-73dd974978ac">
 </a>
 
+<div>
+  <a href="https://user-badge.committers.top/colombia/Gothsec">
+    <img src="https://user-badge.committers.top/colombia/Gothsec.svg" alt="committers.top badge">
+  </a>
+</div>
+
 ## About me
 
 Software Developer & Product designer
@@ -20,3 +26,4 @@ Software Developer & Product designer
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31x76ixjnp73ocuv2xneztyolk4a&count=1&width=840px" alt="Spotify">
 </div>
+
