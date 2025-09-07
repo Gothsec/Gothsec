@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/63f8d426-52ae-4b97-a655-73dd974978ac">
 </a>
 
-<div>
+<div align="right">
   <a href="https://user-badge.committers.top/colombia/Gothsec">
     <img src="https://user-badge.committers.top/colombia/Gothsec.svg" alt="committers.top badge">
   </a>
