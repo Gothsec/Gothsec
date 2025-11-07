@@ -14,6 +14,7 @@
 - React, Vue, Next, TailwindCSS, NodeJS, Supabase, Firebase, Astro
 
 ##
+
 <p align="center">
 <a href="https://github.com/Gothsec">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gothsec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
