@@ -8,8 +8,6 @@
   </a>
 </div>
 
-Co-founder of BugaSoftware
-
 ## My stack
 
 - HTML5, CSS3, JavaScript (ES6+), TypeScript, Java, SQL
