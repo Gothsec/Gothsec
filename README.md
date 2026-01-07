@@ -1,5 +1,5 @@
 <a href="https://oscarhernandez.vercel.app/">
-  <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/b7d47387-5914-4937-aad8-c2b3d2655cc3" />
+  <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/c7aff304-addc-456b-96c9-45fe0157f1fc" />
 </a>
 
 <div align="right">
