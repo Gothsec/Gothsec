@@ -11,7 +11,7 @@
 ## My stack
 
 - HTML & CSS, TypeScript, JavaScript, Java, Python, SQL
-- React, Vue, Next, TailwindCSS, Supabase, Firebase, Astro
+- React, Next, Astro, Vue, TailwindCSS, Supabase, Firebase
 
 ##
 
