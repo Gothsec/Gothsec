@@ -2,12 +2,6 @@
   <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/c7aff304-addc-456b-96c9-45fe0157f1fc" />
 </a>
 
-<div align="right">
-  <a href="https://user-badge.committers.top/colombia/Gothsec">
-    <img src="https://user-badge.committers.top/colombia/Gothsec.svg" alt="committers.top badge">
-  </a>
-</div>
-
 ## My stack
 
 - HTML & CSS, TypeScript, JavaScript, Java, Python, SQL
