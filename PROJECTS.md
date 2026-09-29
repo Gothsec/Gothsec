@@ -1,4 +1,4 @@
-## Open Source & Projects
+## Projects & Contributions
 
 | Name | Type | Description |
 | --- | --- | --- |
